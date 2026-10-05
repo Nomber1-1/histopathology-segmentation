@@ -1,0 +1,10 @@
+# Dataset (downloaded separately - see README)
+QC/
+*.csv
+*.pkl
+*.zip
+
+# Notebook
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
